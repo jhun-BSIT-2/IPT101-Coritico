@@ -6,3 +6,5 @@ My name is Jhunziel Coritico 18 years old. Lives in Loon, Bohol. One of the Five
 `printf("Hello World!");`
 ## How to Install
 * easyhan mo lang sir
+
+first commit
