@@ -8,5 +8,3 @@ My name is Jhunziel Coritico 18 years old. Lives in Loon, Bohol. One of the Five
 * easyhan mo lang sir
 
 first commit
-
-second commit
