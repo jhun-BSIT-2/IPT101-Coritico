@@ -14,5 +14,5 @@ second commit
 third commit
 
 #Feature 1
--feature first commit
--feature second commit
+- feature first commit
+- feature second commit
