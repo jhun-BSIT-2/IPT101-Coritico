@@ -12,3 +12,6 @@ first commit
 second commit
 
 third commit
+
+#Feature 1
+-feature first commit
