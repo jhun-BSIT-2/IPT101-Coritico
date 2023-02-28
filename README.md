@@ -13,6 +13,6 @@ second commit
 
 third commit
 
-#Feature 1
+#Feature 1 Branch
 - feature first commit
 - feature second commit
